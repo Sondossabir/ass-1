@@ -377,6 +377,7 @@ def intersection(l1,l2):
   return l3
 print(intersection(l1,l2))<div id="pad_4.2" class="pad"></div>
 ```
+
 <script>
     Pythonpad('pad_4.2', 
               {'id': '4.2', 

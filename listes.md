@@ -206,8 +206,7 @@ Si cette valeur maximale est présente plusieurs fois dans la liste, on retourne
               {'id': '4.1', 
                'title': 'Testez votre solution ici', 
                'src': '# Complétez ce code'})
-#Correction 2
-  ```
+### correction2  ```
 l =[5,12,48,-2,0,-48,5,12]
 def posmax(l):
     m, k=l[0],0
